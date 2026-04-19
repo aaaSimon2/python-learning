@@ -1,0 +1,65 @@
+[
+  {
+    "time": "2025-12-29 15:55",
+    "mood": 6,
+    "color_index": 12,
+    "color_code": "#29B6F6",
+    "note": "终于考完了"
+  },
+  {
+    "time": "2025-12-29 15:58",
+    "mood": 2,
+    "color_index": 12,
+    "color_code": "#29B6F6",
+    "note": "忧郁"
+  },
+  {
+    "time": "2025-12-29 16:01",
+    "mood": 1,
+    "color_index": 8,
+    "color_code": "#1976D2",
+    "note": "沉闷"
+  },
+  {
+    "time": "2025-12-29 16:04",
+    "mood": 9,
+    "color_index": 1,
+    "color_code": "#8B0000",
+    "note": "强烈不甘"
+  },
+  {
+    "time": "2025-12-29 20:22",
+    "mood": 10,
+    "color_index": 0,
+    "color_code": "#2C003E",
+    "note": "考试周，烦躁"
+  },
+  {
+    "time": "2025-12-29 20:22",
+    "mood": 10,
+    "color_index": 13,
+    "color_code": "#FF80AB",
+    "note": "马上放寒假"
+  },
+  {
+    "time": "2025-12-29 20:23",
+    "mood": 5,
+    "color_index": 14,
+    "color_code": "#81C784",
+    "note": "无聊，没事干"
+  },
+  {
+    "time": "2025-12-29 20:24",
+    "mood": 1,
+    "color_index": 3,
+    "color_code": "#2F4F4F",
+    "note": "高数好难"
+  },
+  {
+    "time": "2025-12-29 20:24",
+    "mood": 7,
+    "color_index": 15,
+    "color_code": "#FFF176",
+    "note": "历史题目咋这么多"
+  }
+]
